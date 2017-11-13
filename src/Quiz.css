@@ -1,0 +1,25 @@
+.ui.card.content-center{
+    margin: 0 auto;
+}
+.ui.grid.start-game{
+    margin-top: 50px
+}
+.joinedPlayers{
+    width: 50%;
+    margin: 10px auto !important;
+}
+.ui.progress.joinedPlayers .bar{
+    min-width: 0;
+}
+.hide-btn {
+     display: none !important;
+}
+.user-input{
+    margin: 10% auto;
+}
+.user-input .ui.form{
+    left:33%;
+}
+.questions{
+    margin-top: 30px;
+}

@@ -1,0 +1,13 @@
+.quizheader {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+.score {
+  color: #fff;
+  padding-left: 50px;
+}
+.ui.buttons .or:before{
+  content: 'vs';
+}

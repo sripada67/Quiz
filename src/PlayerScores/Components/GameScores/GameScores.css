@@ -1,0 +1,41 @@
+.scoresPanel {
+  background-color: #2185d0;
+  padding: 15px;
+  color: white;
+}
+.ui.buttons .or:before{
+  content: 'vs';
+}
+h3.header.scoreBlack{
+    position: absolute;
+    top: -25%;
+    text-align: center;
+    width: 100%;
+    right: 0%;
+}
+h3.header.scoreWhite{
+    position: absolute;
+    top: -25%;
+    text-align: center;
+    width: 100%;
+    right: 0%;
+    color: white;
+}
+h5.header.opponent-score{
+    position: absolute;
+    top: 0px;
+    right: -15%;
+    width: 100%;
+}
+h5.header.opponent-score span{
+    background: #e2e2e2;
+    padding: 0 5px;
+    border-radius: 10px;
+}
+.ball-rotate{
+  animation: App-logo-spin infinite 10s linear;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

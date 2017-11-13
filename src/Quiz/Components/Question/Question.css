@@ -1,0 +1,8 @@
+.questions{
+    margin-top: 30px;
+}
+.option{
+    display: flex !important;
+    flex-direction: row;
+    margin-top: 10px !important;
+}
